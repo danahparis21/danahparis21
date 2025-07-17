@@ -30,8 +30,8 @@
 <br />
 
 <div align="center">
+<img src="https://i.imgur.com/VYYDtsY.gif" width="100%" />
 
-  <img src="https://imgur.com/VYYDtsY" width="100%"/>
 
   <br /><br />
 
