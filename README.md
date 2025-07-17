@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 style="color:#ff69b4; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    💖 Hi! I'm Danah!
+     Hi! I'm Danah!
     <img src="https://i.imgur.com/j7GaM0V.png" width="40" alt="Cute Icon"/>
   </h1>
 
