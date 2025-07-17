@@ -49,7 +49,7 @@
 <div align="center">
   <h2>
     <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
-    💻 Tech Stack
+    Tech Stack
   </h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,figma,flutter,dart,firebase,git,github,vscode" />
 </div>
@@ -60,7 +60,7 @@
 <div align="center">
   <h2>
     <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
-    📊 GitHub Stats
+    GitHub Stats
   </h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=danahparis21&show_icons=true&theme=tokyonight&title_color=ffb6c1&icon_color=ffb6c1" alt="GitHub stats" />
@@ -74,7 +74,7 @@
 <div align="center">
   <h2>
     <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
-    ✍️ Dev Quote of the Day
+    Dev Quote of the Day
   </h2>
 
   <div style="background:#ffeaf4;padding:1em 2em;border-radius:15px;border-left:6px solid #ff69b4;width:fit-content;max-width:80%;margin:auto;font-family:'Fira Code',monospace;color:#d63384;">
