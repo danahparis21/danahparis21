@@ -1,49 +1,57 @@
 <div align="center">
+  <img src="https://i.imgur.com/F9sbHb2.png" width="100%" alt="CTE Banner"/>
+</div>
 
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+<br />
 
- <h1 style="color:#ff69b4; display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div align="center">
+
+  <h1 style="color:#ff69b4; display: flex; align-items: center; justify-content: center; gap: 10px;">
     💖 Hi! I'm Danah!
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJkZXRuOHhjdjZ2ejU4aXJrc2Z6dGV1Mm1vNjkyZGF2ZGw3ZXVpOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vQ9zV1C2wQZkN9iJr7/giphy.gif" width="40" />
+    <img src="https://i.imgur.com/j7GaM0V.png" width="40" alt="Cute Icon"/>
   </h1>
 
   <p><i>Turning ideas into aesthetic & functional ✨ apps and websites 👩🏻‍💻</i></p>
 
   <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Software+Engineer+from+PH!;I+love+building+web+%26+mobile+apps+💻;React+%7C+Java%7C+MySQL+%7C+NodeJS+%F0%9F%93%90)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Software+Engineer+from+PH!;I+love+building+web+%26+mobile+apps+💻;React+%7C+Java%7C+MySQL+%7C+NodeJS+%F0%9F%93%90)](https://git.io/typing-svg)
 
 </div>
- 
-  <br />
-  
+
+<br />
+
 <p align="center">💗 💗 💗 💗 💗 💗 💗 💗 💗 💗</p>
 
-  <br />
+<br />
 
 <div align="center">
 
-  ## 📬 Contact Me
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+
+  <br /><br />
+
+  ## 📬 Contact Me  
   💌 <b>Email:</b> micadanah21@gmail.com  
   🌐 <b>Portfolio:</b> <a href="https://danahparis-portfolio.netlify.app/">danahparis.dev</a>  
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mica-danah-paris-374a10289/">danahparis</a>  
 
 </div>
 
-  <br />
+<br />
 
 <div align="center">
 
-  ## 💻 Tech Stack
+  ## 💻 Tech Stack  
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,figma,flutter,dart,firebase,git,github,vscode" />
 
 </div>
 
-  <br />
+<br />
 
 <div align="center">
 
-  ## 📊 GitHub Stats
+  ## 📊 GitHub Stats  
 
   <img src="https://github-readme-stats.vercel.app/api?username=danahparis21&show_icons=true&theme=tokyonight&title_color=ffb6c1&icon_color=ffb6c1" alt="GitHub stats" />
   <br />
@@ -51,11 +59,11 @@
 
 </div>
 
-  <br />
+<br />
 
 <div align="center">
 
-  ## ✍️ Dev Quote of the Day 
+  ## ✍️ Dev Quote of the Day  
 
   <div style="background:#ffeaf4;padding:1em;border-radius:10px;border-left:5px solid #ff69b4;width:60%;font-family:'Fira Code',monospace;color:#d63384;">
     <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i>  
