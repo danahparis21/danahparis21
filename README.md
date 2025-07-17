@@ -1,7 +1,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 <br />    
-
 </div>
 
 <div align="center">
@@ -27,45 +26,56 @@
 
 <div align="center">
 <img src="https://i.imgur.com/VYYDtsY.gif" width="50%" style="border-radius: 10px;" />
+</div>
 
+<br /><br />
 
-  <br /><br />
-
-  ## 📬 Contact Me  
+<!-- Contact Me Section -->
+<div align="center">
+  <h2>
+    <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
+    📬 Contact Me
+  </h2>
   💌 <b>Email:</b> micadanah21@gmail.com  
+  <br />
   🌐 <b>Portfolio:</b> <a href="https://danahparis-portfolio.netlify.app/">danahparis.dev</a>  
+  <br />
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mica-danah-paris-374a10289/">danahparis</a>  
-
 </div>
 
 <br />
 
+<!-- Tech Stack -->
 <div align="center">
-
-  ## 💻 Tech Stack  
+  <h2>
+    <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
+    💻 Tech Stack
+  </h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,figma,flutter,dart,firebase,git,github,vscode" />
-
 </div>
 
 <br />
 
+<!-- GitHub Stats -->
 <div align="center">
-
-  ## 📊 GitHub Stats  
+  <h2>
+    <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
+    📊 GitHub Stats
+  </h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=danahparis21&show_icons=true&theme=tokyonight&title_color=ffb6c1&icon_color=ffb6c1" alt="GitHub stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danahparis21&layout=compact&theme=tokyonight&title_color=ffb6c1" />
-
 </div>
 
 <br />
 
+<!-- Dev Quote -->
 <div align="center">
-
-<div align="center">
-
-  ## ✍️ Dev Quote of the Day  
+  <h2>
+    <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
+    ✍️ Dev Quote of the Day
+  </h2>
 
   <div style="background:#ffeaf4;padding:1em 2em;border-radius:15px;border-left:6px solid #ff69b4;width:fit-content;max-width:80%;margin:auto;font-family:'Fira Code',monospace;color:#d63384;">
     <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i>  
@@ -73,8 +83,6 @@
     — <strong>Pablo Picasso</strong>
   </div>
 
+  <br />
   <img src="https://i.imgur.com/klkOHtO.jpeg" width="50%" alt="CTE Banner" style="border-radius: 10px;" />
-
 </div>
-
-
