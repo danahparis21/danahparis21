@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/F9sbHb2.png" width="100%" alt="CTE Banner"/>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+  <img src="https://imgur.com/klkOHtO" width="100%" alt="CTE Banner"/>
 </div>
 
 <br />
@@ -27,7 +28,7 @@
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+  <img src="https://imgur.com/VYYDtsY" width="100%"/>
 
   <br /><br />
 
