@@ -15,8 +15,7 @@
 
 <div align="center">
 
-  <h3>📬 Contact Me</h3>
-
+  ## 📬 Contact Me
   💌 <b>Email:</b> micadanah21@gmail.com  
   🌐 <b>Portfolio:</b> <a href="https://danahparis-portfolio.netlify.app/">danahparis.dev</a>  
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mica-danah-paris-374a10289/">danahparis</a>  
@@ -27,7 +26,7 @@
 
 <div align="center">
 
-  <h3>💻 Tech Stack</h3>
+  ## 💻 Tech Stack
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,figma,flutter,dart,firebase,git,github,vscode" />
 
 </div>
@@ -36,7 +35,7 @@
 
 <div align="center">
 
-  <h3>📊 GitHub Stats</h3>
+  ## 📊 GitHub Stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=danahparis21&show_icons=true&theme=tokyonight&title_color=ffb6c1&icon_color=ffb6c1" alt="GitHub stats" />
   <br />
@@ -48,7 +47,7 @@
 
 <div align="center">
 
-  <h3>✍️ Dev Quote of the Day</h3>
+  **✍️ Dev Quote of the Day** 
 
   <div style="background:#ffeaf4;padding:1em;border-radius:10px;border-left:5px solid #ff69b4;width:60%;font-family:'Fira Code',monospace;color:#d63384;">
     <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i>  
