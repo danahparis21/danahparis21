@@ -1,9 +1,4 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
-<br />    
-</div>
-
-<div align="center">
 
   <h1 style="color:#ff69b4; display: flex; align-items: center; justify-content: center; gap: 10px;">
     💖 Hi! I'm Danah!
