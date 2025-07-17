@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -24,12 +23,11 @@
 
 </div>
 
----
 
 <div align="center">
 
   ## 💻 Tech Stack  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,figma,flutter,dart,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,vite,tailwind,php,django,cpp" />
 
 </div>
 
