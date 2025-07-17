@@ -34,7 +34,7 @@
 <div align="center">
   <h2>
     <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
-    📬 Contact Me
+    Contact Me
   </h2>
   💌 <b>Email:</b> micadanah21@gmail.com  
   <br />
