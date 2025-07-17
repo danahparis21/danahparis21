@@ -1,8 +1,10 @@
 <div align="center">
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 
-    <br />
-<img src="https://i.imgur.com/klkOHtO.jpeg" width="100%" alt="CTE Banner"/>
+<br />
+
+<img src="https://i.imgur.com/klkOHtO.jpeg" width="80%" alt="CTE Banner" style="border-radius: 10px;" />
+
 
 </div>
 
@@ -30,7 +32,7 @@
 <br />
 
 <div align="center">
-<img src="https://i.imgur.com/VYYDtsY.gif" width="100%" />
+<img src="https://i.imgur.com/VYYDtsY.gif" width="80%" style="border-radius: 10px;" />
 
 
   <br /><br />
@@ -67,12 +69,15 @@
 
 <div align="center">
 
+<div align="center">
+
   ## ✍️ Dev Quote of the Day  
 
-  <div style="background:#ffeaf4;padding:1em;border-radius:10px;border-left:5px solid #ff69b4;width:60%;font-family:'Fira Code',monospace;color:#d63384;">
+  <div style="background:#ffeaf4;padding:1em 2em;border-radius:15px;border-left:6px solid #ff69b4;width:fit-content;max-width:80%;margin:auto;font-family:'Fira Code',monospace;color:#d63384;">
     <i>“I am always doing that which I cannot do, in order that I may learn how to do it.”</i>  
     <br><br>
     — <strong>Pablo Picasso</strong>
   </div>
 
 </div>
+
