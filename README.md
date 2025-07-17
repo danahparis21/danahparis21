@@ -1,5 +1,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+<br />    
 
 <img src="https://i.imgur.com/klkOHtO.jpeg" width="80%" alt="CTE Banner" style="border-radius: 10px;" />
 
