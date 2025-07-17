@@ -33,10 +33,13 @@ Turning ideas into aesthetic & functional ✨ apps and websites 🎨👩🏻‍�
 
 ---
 
----
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
-</p>
+## ✍️ Dev Quote of the Day
+
+<blockquote style="background: #ffeaf4; border-left: 4px solid #ff69b4; padding: 1em; font-style: italic; border-radius: 8px; color: #d63384;">
+  “I am always doing that which I cannot do, in order that I may learn how to do it.”  
+  <br><br>
+  — <strong>Pablo Picasso</strong>
+</blockquote>
+
 
