@@ -3,15 +3,12 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 
   # 💖 Hi! I'm Danah!
-  <p><i>Turning ideas into aesthetic & functional ✨ apps and websites 🎨👩🏻‍💻</i></p>
+  <p><i>Turning ideas into aesthetic & functional ✨ apps and websites 👩🏻‍💻</i></p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Software+Engineer+from+PH!;I+love+building+web+%26+mobile+apps+💻;React+%7C+Java%7C+MySQL+%7C+NodeJS+%F0%9F%93%90" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Software+Engineer+from+PH!;I+love+building+web+%26+mobile+apps+💻;React+%7C+Java%7C+MySQL+%7C+NodeJS+%F0%9F%93%90)](https://git.io/typing-svg)
 
 </div>
 
----
 
 <div align="center">
 
@@ -22,7 +19,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -43,7 +39,6 @@
 
 </div>
 
----
 
 <div align="center">
 
