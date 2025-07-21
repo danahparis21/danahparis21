@@ -46,7 +46,7 @@
     <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
     Tech Stack
   </h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,netbeans,tailwind,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,tailwind,cpp" />
 </div>
 
 <br />
