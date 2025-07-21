@@ -9,7 +9,7 @@
 
   <br />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Software+Engineer+from+PH!;I+love+building+web+%26+desktop+apps+💻;React+%7C+Java%7C+MySQL+%7C+JS+%F0%9F%93%90)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Software+Engineer+from+PH!;I+love+building+web+%26+desktop+apps+💻;React+%7C+Java%7C+MySQL+%7C+Tailwind+%F0%9F%93%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -46,7 +46,7 @@
     <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
     Tech Stack
   </h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,figma,flutter,dart,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,netbeans,tailwind,cpp" />
 </div>
 
 <br />
@@ -69,7 +69,7 @@
 <div align="center">
   <h2>
     <img src="https://i.imgur.com/ofTmvYf.gif" width="30" style="vertical-align:middle;" />
-    Dev Quote of the Day
+    Quote of the Day
   </h2>
 
   <div style="background:#ffeaf4;padding:1em 2em;border-radius:15px;border-left:6px solid #ff69b4;width:fit-content;max-width:80%;margin:auto;font-family:'Fira Code',monospace;color:#d63384;">
